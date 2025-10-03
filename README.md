@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 ````
 Bash:
 
-git clone https://your-repository-url/github-top-repos.git
+git clone git@github.com:hlosukwakha/github_repo_analysis.git
 cd github-top-repos
 ````
 * Alternatively, just save the ````github_repos.py```` script to a directory on your computer.
